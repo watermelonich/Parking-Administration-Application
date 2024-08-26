@@ -13,7 +13,7 @@
   - [License](#license)
 
 ## Introduction
-The **Parking Management Application** is a locally hosted web-based system designed to manage parking spaces efficiently. It provides a straightforward interface for administrators to manage categories, customers, time durations, prices, and parking slots. The application also supports user management, reporting, and profile management.
+The **Parking Administration Application** is a locally hosted web-based system designed to manage parking spaces efficiently. It provides a straightforward interface for administrators to manage categories, customers, time durations, prices, and parking slots. The application also supports user management, reporting, and profile management.
 
 ## Features
 - **Category Management**: Add, edit, and manage parking categories.
@@ -51,7 +51,7 @@ The **Parking Management Application** is a locally hosted web-based system desi
 
 5. Access the application via your web browser:
    ``` 
-   http://localhost/parking-management-app/index.php
+   http://localhost/Parking-Administration-App/index.php
    ```
 
 ## Usage
